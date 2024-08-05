@@ -217,3 +217,4 @@ public class WorldInfoCommand extends Command {
                 || block == Blocks.DEEPSLATE_EMERALD_ORE;
     }
 }
+// huh
